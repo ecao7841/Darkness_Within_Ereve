@@ -6,4 +6,4 @@
 
 There really is no way to win the game, but to survive as long as possible and get a highscore.</p>
 
-<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame" Pygame Wheel File/a>
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame" Pygame Wheel File</a>
